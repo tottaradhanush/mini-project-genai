@@ -1,0 +1,1 @@
+pip install streamlit requests pdfplumber beautifulsoup4 google-generativeai sentence-transformers langchain supabase python-dotenv torch torchvision torchaudio
